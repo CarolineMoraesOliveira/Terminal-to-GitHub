@@ -20,7 +20,7 @@ var lifesAnswers = [
     "My reply is no.",
     "My sources say no.",
     "Outlook not so good.",
-    "Very doubtful."
+    "Very doubtful"
 ];
 
 function answer(){
@@ -28,6 +28,8 @@ function answer(){
     return (randomQuestion);
 }
 var x = answer(
-    
+
 );
 console.log(x);
+// let´s do it amazing!
+
